@@ -1,0 +1,82 @@
+#blane{
+    background-color: teal;
+    color: white;
+    padding: 20px 30px 20px 30px;
+}
+
+body{
+    background-image: url(http://bashooka.com/wp-content/uploads/2012/04/patterns_4.jpg);
+}
+
+.navbar-right{
+    text-align: right;
+    color: gray;
+}
+
+.jumbotron{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+#aboutpic{
+    float: left;
+    margin-right: 15px;
+    border: 1px solid gray;
+}
+
+#paragraph{
+    font-size: 23px;
+}
+
+.jumbotron{
+    border: 1px solid gray;
+    background-color: white;
+}
+
+#footer{
+    position: fixed;
+    text-align: center;
+    border-top: 4px solid #4aaaa5;
+    background-color:#666666;
+    color: white;
+    padding: 20px 0 20px 0;
+    width: 100%;
+    bottom: 0;
+    z-index: 3;
+}
+
+#submit{
+    background-color:teal;
+    color: white;
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.table {
+    margin-top: 110px;
+    margin-bottom: 100px;
+    background-color: white;
+    border: 1px solid black auto;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    z-index: 0;
+}
+
+/* thead tbody tr th{
+    border: 1px solid black;
+} */
+
+th p {
+    position: relative;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    height: 30px;
+    width: 300px;
+    z-index: 2;
+    bottom: 80px;
+    margin: 0 0 0 0;
+    padding: 0;
+    text-align: center;
+}
+
